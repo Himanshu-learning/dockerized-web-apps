@@ -1,0 +1,13 @@
+{
+   "name": "nodejsapp",
+   "version": "1.0.0",
+   "description": "A simple Node.JSR app",
+   "main": "index.js",
+   "dependencies": "{}",
+   "scripts": {
+      "start": "node index.js"
+   },
+   "dependencies": {
+      "express": "^4.18.2"
+   }
+}
